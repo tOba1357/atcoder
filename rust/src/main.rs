@@ -1,8 +1,4 @@
-use rust::abc125;
-
-
-use std::io;
-
+extern crate rust;
 fn main() {
-    abc125::B::main();
+    rust::abc125::D::main();
 }
