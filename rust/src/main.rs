@@ -1,4 +1,5 @@
 extern crate rust;
+
 fn main() {
-    rust::abc125::D::main();
+    rust::agc033::B::main();
 }
